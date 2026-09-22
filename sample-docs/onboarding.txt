@@ -1,0 +1,11 @@
+Lumen Finch Games — first week
+
+Day 1: get a laptop login, read the handbook, and meet your buddy.
+Day 2: clone the Paper Lanterns repo and finish the Lantern editor tutorial.
+Day 3: fix a starter bug labeled "good-first-lantern" and open a pull request.
+Day 4: play the latest Thursday build and write three notes about what confused you.
+Day 5: demo those notes to the team for 10 minutes. Keep it to what you actually saw.
+
+Your buddy this quarter is Mara Chen. She sits near the kitchen.
+
+The build you play on day 4 is the newest folder under the shared drive path thursday-builds. If that folder is empty, use the previous Thursday and say so in your notes.
