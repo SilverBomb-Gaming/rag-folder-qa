@@ -17,7 +17,7 @@ Author: Alfredo Cardona ([SilverBomb-Gaming](https://github.com/SilverBomb-Gamin
 ## What it is not
 
 - A hosted search product, a chat UI, or a multi-user service.
-- A crawler. It does not read PDF, Office, or HTML files.
+- A crawler. It does not read PDF, Office, or HTML files (yet).
 - A client of OpenAI or any other cloud model API.
 
 ## Demo (about ten minutes, plus model downloads)
